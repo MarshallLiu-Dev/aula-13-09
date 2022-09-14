@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+    flex-direction:row-reverse;
+    justify-content:center;
+    height: 600px;
+    border:1px;
+
+}
+#A{
+color:red;
+width: 70px;
+height: 70px;
+}
+#B{
+    color:yellow;
+    width: 70px;
+    height: 70px;
+}
+#C{
+    color:green;
+    height: 80px;
+    width: 80px;
+}
+
+body{
+    background-color:rgb(17, 17, 17);
+}
